@@ -4,7 +4,7 @@
 
 ```
 module demo {
-    source = "nurbaitenov/gke/gcp"
+    source = "nurbaitenov/ns/kubernetes"
     name        = "demo-ns"
 
     annotations  = {
