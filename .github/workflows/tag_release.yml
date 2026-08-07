@@ -41,3 +41,7 @@ jobs:
           gh release create "$NEXT" \
             --title "Release $NEXT" \
             --generate-notes
+
+
+
+      
